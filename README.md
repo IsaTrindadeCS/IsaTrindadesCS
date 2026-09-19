@@ -1,6 +1,6 @@
 # IsaTrindadesCS
 <div align="center">
-  <h1>Olá, eu sou a Isabella Cavalcante! 👋</h1>
+  <h1>Olá, eu sou a Isabella Trindade Silva Cavalcante! 👋</h1>
   <h3>Em transição de carreira para Cibersegurança | Analista de Cibersegurança Júnior</h3>
 
   <p>
