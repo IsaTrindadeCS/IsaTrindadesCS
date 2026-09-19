@@ -14,7 +14,7 @@
   <a href="mailto:isatrindades@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://drive.google.com/file/d/1NDeoVBKugqQ-KrUq_3UoZqSMS1h1hW2r/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1dhBP5ju6XFNFTg5vmOwIitG5GZvVp9yg/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículo_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo PDF" />
   </a>
 </div>
